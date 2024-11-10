@@ -48,7 +48,7 @@ export const gridItems = [
   },
   {
     id: 5,
-    title: "Currently building a Leadership Forum & Finera",
+    title: "Currently building a Leadership Forum & PennyGrow",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,19 +73,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Zen Panda",
-    des: "Talk to this energy booster chat bot",
+    title: "Portfolio for Chetan Bhambri",
+    des: "I worked on leadership coach Chetan Bhambri's portfolio",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://www.youtube.com/watch?v=GxfmVgUadM4",
+    link: "https://staging.chetanbhambri.com",
   },
   {
     id: 2,
-    title: "Coachera Forum",
-    des: "This is a forum website lead by the Leadership Coach Chetan Bhambri",
+    title: "PennyGrow",
+    des: "I created a website called PennyGrow which is a platform for kids to manage their pocket money.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://staging.chetanbhambri.com/Feeds.html",
+    link: "https://penny-grow.vercel.app",
   },
   {
     id: 3,
